@@ -38,6 +38,7 @@
     "warn_before_days": 5,
     "offline_grace_days": 3
   },
+
   "version": {
     "channel": "stable",
     "latest": "1.0.0",
