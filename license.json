@@ -41,8 +41,8 @@
 
   "version": {
     "channel": "stable",
-    "latest": "1.0.0",
-    "min_supported": "1.0.0",
+    "latest": "3.0.0",
+    "min_supported": "3.0.0",
     "released_at": "2026-10-12T00:00:00Z",
     "download_url": "",
     "blocked_versions": []
