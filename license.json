@@ -25,16 +25,19 @@
     "type": "professional_annual",
     "status": "active",
     "reason": null,
-"current": {
-  "key_hash": "cddc9d6bb915861d8bc2b7e178f7c50c36fa019c034ce54f8d597c9cf630c994",
-  "valid_from": "2026-10-01T00:00:00Z",
-  "valid_until": "2027-03-31T19:59:59Z"
-},
-    "next": null,
+    "current": {
+      "key_hash": "cddc9d6bb915861d8bc2b7e178f7c50c36fa019c034ce54f8d597c9cf630c994",
+      "valid_from": "2026-10-01T00:00:00Z",
+      "valid_until": "2026-10-15T19:59:59Z"
+    },
+    "next": {
+      "key_hash": "70d440e0900257c2b60897f191c3661463a7d3596ce1efed54fce72925e9921f",
+      "valid_from": "2026-10-12T00:00:00Z",
+      "valid_until": "2027-06-30T19:59:59Z"
+    },
     "warn_before_days": 5,
     "offline_grace_days": 3
   },
-
   "version": {
     "channel": "stable",
     "latest": "1.0.0",
