@@ -28,7 +28,7 @@
 "current": {
   "key_hash": "cddc9d6bb915861d8bc2b7e178f7c50c36fa019c034ce54f8d597c9cf630c994",
   "valid_from": "2026-10-01T00:00:00Z",
-  "valid_until": "2026-12-31T19:59:59Z"
+  "valid_until": "2027-03-31T19:59:59Z"
 },
     "next": null,
     "warn_before_days": 5,
