@@ -26,15 +26,11 @@
     "status": "active",
     "reason": null,
     "current": {
-      "key_hash": "cddc9d6bb915861d8bc2b7e178f7c50c36fa019c034ce54f8d597c9cf630c994",
+      "key_hash": "0a99da95eadd4e3e675a340ddd4a35a541415315057c3a7586bc4fde1d59ec7a",
       "valid_from": "2026-10-01T00:00:00Z",
-      "valid_until": "2026-10-15T19:59:59Z"
+      "valid_until": "2027-09-30T19:59:59Z"
     },
-    "next": {
-      "key_hash": "70d440e0900257c2b60897f191c3661463a7d3596ce1efed54fce72925e9921f",
-      "valid_from": "2026-10-12T00:00:00Z",
-      "valid_until": "2027-06-30T19:59:59Z"
-    },
+    "next": null,
     "warn_before_days": 5,
     "offline_grace_days": 3
   },
