@@ -1,0 +1,72 @@
+{
+  "schema": 1,
+  "issued_at": "2026-10-12T00:00:00Z",
+
+  "product": {
+    "owner": "Azertexnolayn MMC",
+    "contacts": [
+      {
+        "role": "license",
+        "name": "Elgiz Cəbrayılov",
+        "email": "elgiz.cebrayilov@azertexnolayn.com",
+        "phone": "+994512521254"
+      },
+      {
+        "role": "installation",
+        "name": "Bəhram Qədirov",
+        "email": null,
+        "phone": "+994512557657"
+      }
+    ]
+  },
+
+  "license": {
+    "number": "K-2048",
+    "type": "professional_annual",
+    "status": "active",
+    "reason": null,
+    "current": {
+      "key_hash": "240fc3f6a6d8d3c51074e279607bb7a2bc8e345a6efb2e8634c9a35ca80b893a",
+      "valid_from": "2026-10-01T00:00:00Z",
+      "valid_until": "2026-12-31T19:59:59Z"
+    },
+    "next": null,
+    "warn_before_days": 5,
+    "offline_grace_days": 3
+  },
+
+  "version": {
+    "channel": "stable",
+    "blocked_versions": [],
+    "platforms": {
+      "windows": {
+        "latest": "1.1.0",
+        "min_supported": "1.0.0",
+        "released_at": "2026-10-12T00:00:00Z",
+        "download_url": "",
+        "sha256": ""
+      },
+      "android": {
+        "latest": "1.1.0",
+        "min_supported": "1.0.0",
+        "released_at": "2026-10-12T00:00:00Z",
+        "download_url": ""
+      },
+      "ios": {
+        "latest": "1.1.0",
+        "min_supported": "1.0.0",
+        "released_at": "2026-10-12T00:00:00Z",
+        "download_url": ""
+      }
+    }
+  },
+
+  "maintenance": {
+    "enabled": false,
+    "until": null
+  },
+
+  "config": {
+    "check_interval_minutes": 60
+  }
+}
