@@ -26,7 +26,7 @@
     "status": "active",
     "reason": null,
     "current": {
-      "key_hash": "0a99da95eadd4e3e675a340ddd4a35a541415315057c3a7586bc4fde1d59ec7a",
+      "key_hash": "240fc3f6a6d8d3c51074e279607bb7a2bc8e345a6efb2e8634c9a35ca80b893a",
       "valid_from": "2026-10-01T00:00:00Z",
       "valid_until": "2027-09-30T19:59:59Z"
     },
