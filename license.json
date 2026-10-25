@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "issued_at": "2026-10-12T00:00:00Z",
-  "license_enabled": true,
+  "license_enabled": false,
 
   "product": {
     "owner": "Azertexnolayn MMC",
